@@ -1,0 +1,14 @@
+{
+    "note1": {
+        "id" : 1,
+        "note" : "write notes api with node"
+    },
+    "note2": {
+        "id" : 2,
+        "note" : "write ios app with swiftui"
+    },
+    "note3": {
+        "id" : 3,
+        "note" : "design swiftui app with swiftui niceties"
+    }
+}
